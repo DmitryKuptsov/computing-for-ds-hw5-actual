@@ -1,1 +1,1 @@
-# computing-for-ds-hw5-actual
+Sofia Pirogova, Dmitrii Kuptsov
