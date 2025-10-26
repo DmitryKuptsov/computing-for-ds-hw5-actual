@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: predict_diabetes
+Version: 0.1.0
+Author: Sofia Pirogova, Dmitrii Kuptsov
+Project-URL: Homepage, https://github.com/DmitryKuptsov/computing-for-ds-hw5
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: scikit-learn>=1.3.0
+Dynamic: license-file
+
+Sofia Pirogova, Dmitrii Kuptsov
